@@ -1,0 +1,7 @@
+{
+    "REPO_URL":"git address",
+    "PROJECT_NAME":"name",
+    "REMOTE_HOST":"aws ip address",
+    "REMOTE_HOST_SSH":"aws ip address",
+    "REMOTE_USER":"ubuntu"
+  }
